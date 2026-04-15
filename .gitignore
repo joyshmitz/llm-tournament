@@ -173,3 +173,7 @@ emoji_cache.json
 # tournament_results
 # output_results_for_each_round_and_model
 # metrics/test_metrics.json
+
+# macOS
+.DS_Store
+._*
